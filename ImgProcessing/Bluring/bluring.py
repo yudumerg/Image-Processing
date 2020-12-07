@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 23 17:51:07 2020
 
-@author: asus
-"""
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
