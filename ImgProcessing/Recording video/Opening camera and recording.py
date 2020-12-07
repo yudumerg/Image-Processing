@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 22 14:05:33 2020
 
-@author: asus
-"""
 
 
 import cv2
